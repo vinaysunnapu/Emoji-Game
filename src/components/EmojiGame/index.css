@@ -1,0 +1,16 @@
+.emoji-game-container {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.emoji-card-container {
+  width: 70%;
+  border: 1px solid grey;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  border: none;
+  margin-top: 30px;
+}

@@ -1,0 +1,24 @@
+.result-card {
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+
+  border: 1px solid white;
+  align-self: center;
+  background-color: #ffffff33;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.score-card {
+  color: white;
+  margin-top: 70px;
+  font-size: 30px;
+  text-align: center;
+}
+.play-again-button {
+  color: black;
+  background-color: #ffce27;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}

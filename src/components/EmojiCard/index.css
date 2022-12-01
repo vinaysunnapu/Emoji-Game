@@ -1,0 +1,16 @@
+.list_item {
+  width: 200px;
+  height: 180px;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  list-style-type: none;
+  margin: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-button {
+  background-color: transparent;
+  border: none;
+}
